@@ -10,10 +10,5 @@
 			<artifactId>grinder-core</artifactId>
 			<version>3.11</version>
 		</dependency>
-		<dependency>
-			<groupId>net.sf.grinder</groupId>
-			<artifactId>grinder-test-support</artifactId>
-			<version>3.11</version>
-		</dependency>
 	</dependencies>
 </project>
